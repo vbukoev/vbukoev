@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vbukoev
 - 👀 I’m interested in Coding and Studying 
-- 🌱 I’m currently learning SoftUni and Telecommunications in Technical University of Sofia
+- 🌱 I’m currently learning the C# path in SoftUni and Telecommunications in Technical University of Sofia
 - 📫 Reach me: vbukoev@gmail.com
 - ✔ Fun fact: I love coding and playing football
 <!---
