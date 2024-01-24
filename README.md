@@ -4,7 +4,8 @@
 - 📫 Reach me: vbukoev@gmail.com | vbukoev@tu-sofia.bg
 - ✔ Fun fact: I love coding and playing football
 
-  [![Vbukoev's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbukoev)](https://github.com/vbukoev/github-readme-stats)
+  
+  ![Vbukoev's GitHub stats](https://github-readme-stats.vercel.app/api?username=vbukoev&show_icons=true&theme=cobalt)
 <!---
 vbukoev/vbukoev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
