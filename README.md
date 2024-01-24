@@ -2,8 +2,8 @@
 <h3 align="center">I’m interested in Coding and Studying new things from the IT-sector and in particular from the Telecommunications and C# programs.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbukoev&label=Profile%20views&color=0e75b6&style=flat" alt="vbukoev" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbukoev" alt="vbukoev" /></a> </p>
+<!-- Uncomment the commented line if you want to see the trophies earned-->
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbukoev" alt="vbukoev" /></a> </p> -->
 
 - 🔭 I’m currently working on [School-Management-System-ASP.NET Project](https://github.com/vbukoev/School-Management-System-Project)
 
