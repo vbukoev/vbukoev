@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vbukoev?tab=repositories](https://github.com/vbukoev?tab=repositories)
 
-- 💬 Ask me about **C#,.Net, MSSQL, EFCore**
+- 💬 Ask me about **C#, .Net, MSSQL, EFCore**
 
 - 📫 How to reach me **vbukoev@gmail.com | vbukoev@tu-sofia.bg**
 
