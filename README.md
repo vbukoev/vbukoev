@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vasil Bukoev</h1>
-<h3 align="center">I’m interested in Coding and Studying new things from the IT-sector and in particular from the Telecommunications and C# programs.</h3>
+<h3 align="center"> I'm a telecommunications enthusiast with a passion for C# programming. Currently diving into the world of code and connectivity, I'm excited to contribute to innovative projects that bridge the gap between cutting-edge telecommunications technology and C# development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vbukoev&label=Profile%20views&color=0e75b6&style=flat" alt="vbukoev" /> </p>
 <!-- Uncomment the commented line if you want to see the trophies earned-->
