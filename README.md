@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **C# Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vbukoev?tab=repositories](https://github.com/vbukoev?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/vbukoev?tab=repositories)
 
 - 💬 Ask me about **C#, .Net, MSSQL, EFCore**
 
