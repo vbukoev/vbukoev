@@ -5,7 +5,7 @@
 <!-- Uncomment the commented line if you want to see the trophies earned-->
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vbukoev" alt="vbukoev" /></a> </p> -->
 
-- 🔭 I’m currently working on [School-Management-System-ASP.NET Project](https://github.com/vbukoev/School-Management-System-Project)
+- 🔭 I’m currently working on [CourseNet-ASP.NET Project](https://github.com/vbukoev/CourseNet)
 
 - 🌱 I’m currently learning **C# Web Development**
 
