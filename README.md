@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vasil-bukoev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d0%b1%d1%83%d0%ba%d0%be%d0%b5%d0%b2-1361a5233/" height="30" width="40" /></a>
+<a href="linkedin.com/in/vasil-bukoev-1361a5233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%d0%b2%d0%b0%d1%81%d0%b8%d0%bb-%d0%b1%d1%83%d0%ba%d0%be%d0%b5%d0%b2-1361a5233/" height="30" width="40" /></a>
 <a href="https://fb.com/profile.php?id=100000675495875" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100000675495875" height="30" width="40" /></a>
 <a href="https://instagram.com/v.bukoev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="v.bukoev" height="30" width="40" /></a>
 </p>
